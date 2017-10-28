@@ -119,7 +119,7 @@ JOIN Album a on a.AlbumId = t.AlbumId
 JOIN MediaType m on m.MediaTypeId = t.MediaTypeId
 JOIN Genre g on g.GenreId = t.GenreId;
 
-**17) invoices_line_item_count.sql: Provide a query that shows all Invoices but includes the # of invoice line items.
+--17) invoices_line_item_count.sql: Provide a query that shows all Invoices but includes the # of invoice line items.
 
 --18) sales_agent_total_sales.sql: Provide a query that shows total sales made by each sales agent.
 
